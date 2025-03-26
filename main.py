@@ -1,1 +1,2 @@
-print('Hello')
+for i in range(int(input()):
+  print('Hello')
